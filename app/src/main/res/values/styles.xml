@@ -17,12 +17,17 @@
     <!-- Base application theme. -->
     <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
         <!-- Customize your theme here. -->
-        <item name="colorPrimary">#3F51B5</item>
+        <item name="colorPrimary">#D32F2F</item>
         <!-- Light Indigo -->
-        <item name="colorPrimaryDark">#3949AB</item>
+        <item name="colorPrimaryDark">#B71C1C</item>
         <!-- Dark Indigo -->
-        <item name="colorAccent">#00B0FF</item>
+        <item name="colorAccent">#FFD180</item>
         <!-- Blue -->
     </style>
     <style name="AppTheme" parent="AppTheme.Base"></style>
+    <style name="DetailTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#607D8B</item>
+        <item name="colorPrimaryDark">#455A64</item>
+        <item name="colorAccent">#3D5AFE</item>
+    </style>
 </resources>

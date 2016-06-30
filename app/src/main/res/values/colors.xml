@@ -15,8 +15,11 @@
   ~ limitations under the License.
   -->
 <resources>
+    <color name="colorPrimary">#FF9800</color>
+    <color name="colorPrimaryDark">#F57C00</color>
+    <color name="colorAccent">#00C853</color>
     <color name="white">#FFFFFF</color>
-    <color name="dark_grey">#424242</color>
-    <color name="medium_grey">#9E9E9E</color>
+    <color name="dark_grey">#DE000000</color>
+    <color name="medium_grey">#8A000000</color>
     <color name="button_grey">#757575</color>
 </resources>

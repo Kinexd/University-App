@@ -16,7 +16,13 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="@dimen/navheader_height"
-    android:background="?attr/colorPrimaryDark"
+    android:background="@drawable/sydney"
     android:orientation="vertical"
-    android:padding="@dimen/md_keylines">
+    >
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:alpha="0.3"
+        android:background="@drawable/sydney_overlay" />
+
 </LinearLayout>
