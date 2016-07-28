@@ -1,4 +1,4 @@
-package com.sutton.ryan.materialdesign.activities.activities;
+package com.sutton.ryan.macquarie.activities.activities;
 
 import android.content.Context;
 import android.net.Uri;
@@ -8,7 +8,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.sutton.ryan.materialdesign.R;
+import com.sutton.ryan.macquarie.R;
 
 /**
  * A simple {@link Fragment} subclass.

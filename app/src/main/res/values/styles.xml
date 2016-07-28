@@ -30,4 +30,8 @@
         <item name="colorPrimaryDark">#455A64</item>
         <item name="colorAccent">#3D5AFE</item>
     </style>
+    <style name="collapsingExpanded" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:textSize">21sp</item>
+        <item name="android:singleLine">false</item>
+    </style>
 </resources>
