@@ -46,7 +46,7 @@ import org.jsoup.nodes.*;
 import org.jsoup.select.*;
 
 /**
- * Provides UI for the view with Cards..
+ * Provides UI for the view with Cards.
  */
 public class CardContentFragment extends Fragment {
 
