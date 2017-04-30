@@ -1,11 +1,18 @@
-# Material Design University Android Application
+# README #
 
-Essentially an application to experiment with that displays web-based information relevant to the university.
+This is a modified version of the Google codelabs material design repository.
 
-### Current Inclusions
+### What is this repository for? ###
 
-A tab that shows current news from the university which is pulled from their website.
+* Practicing my skills in Android Java
+* Such as: using lists and updating the UI thread, using networking libraries such as volley,
+	bimap factory, and playing around with different view types (cards, lits, tiles, hamburger menus)
 
+### How do I get set up? ###
+
+* Clone repository
+* Open in Android Studio
+* Run on an emulated or real Android device running Android API level 21 or higher
 
 
 
